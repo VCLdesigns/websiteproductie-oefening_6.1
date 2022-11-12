@@ -73,13 +73,14 @@ body {
 h1 {
   text-align: center;
   font-family: var(--font_titel);
-  padding: 25px 0;
+  padding: 4vh 0;
 }
 
 footer {
   display: flex;
   justify-content: space-around;
   font-family: var(--font_subtitel);
+  padding: 2vh 0 1vh 0;
 }
 
 @media (min-width: 750px) {
